@@ -2,6 +2,9 @@
 
 A **Digital Document Manager** built with React.js, Redux Toolkit, and Firebase Realtime Database. Users can upload, organize, preview, update, and delete digital documents in real-time.
 
+## 🌐 Live Demo
+👉 https://firebase-storage-fawn.vercel.app/
+
 ## 🚀 Live Features
 - 📤 Upload documents (PDF, Images, Certificates, Reports, Resumes)
 - 👁️ View all files in a clean card layout
@@ -45,9 +48,10 @@ npm run dev
 - `setFiles` — real-time listener syncs UI instantly
 
 ## 📌 Use Case
-colleges, offices, and organizations can use this to manage digital files centrally — students upload certificates, faculty upload reports, admin downloads and verifies documents.
+Colleges, offices, and organizations can use this to manage digital files centrally — students upload certificates, faculty upload reports, admin downloads and verifies documents.
 
 ---
+
 
 <img width="1910" height="747" alt="Screenshot 2026-03-17 121904" src="https://github.com/user-attachments/assets/0c403002-ad60-40ff-8afc-ff60df5e959e" />
 <img width="1913" height="696" alt="Screenshot 2026-03-17 122015" src="https://github.com/user-attachments/assets/990fa05d-e51f-4a28-9577-973957dbbba5" />
